@@ -1,0 +1,4 @@
+easyocr
+requests
+python-telegram-bot
+
