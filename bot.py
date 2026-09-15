@@ -32,7 +32,7 @@ USER_AGENT = (
     "Chrome/124.0.0.0 Safari/537.36"
 )
 TELEGRAM_BOT_TOKEN = "8994945852:AAHkR57QouDtbeP4IqWKMQSPkxikPchVD-8"
-TELEGRAM_CHAT_ID = "-1003732235670"
+TELEGRAM_CHAT_ID = "-1004409181577"
 def load_users(file_path):
     users = []
     with open(file_path, "r", encoding="utf-8") as f:
